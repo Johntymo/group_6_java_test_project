@@ -7,4 +7,26 @@ package instructor;
  */
 
 public class week1_Task1 {
+
+    public static void main(String[] args) {
+
+
+        int num1 = 6;
+
+
+        if (num1 == 0) {
+            System.out.println("The number is ZERO");
+            return;
+        }
+
+        if ((num1 % 2) == 0)
+            System.out.println("The number is Even.");
+        else
+            System.out.println("The number is Odd");
+
+    }
+
 }
+
+
+
