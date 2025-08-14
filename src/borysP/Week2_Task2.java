@@ -22,6 +22,7 @@ public class Week2_Task2 {
             } else {
                 System.out.println(i);
             }
+
         }
     }
 
