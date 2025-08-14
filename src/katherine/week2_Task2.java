@@ -9,13 +9,13 @@ Write a method which prints out the numbers from 1 to 30 but for numbers which a
     public static void printFinRa() {
         for (int i = 1; i <= 30; i++) {
             if (i % 15 == 0) { // multiple of both 3 and 5
-                System.out.println("FINRA");
+                System.out.print("FINRA ");
             } else if (i % 3 == 0) {
-                System.out.println("FIN");
+                System.out.print("FIN ");
             } else if (i % 5 == 0) {
-                System.out.println("RA");
+                System.out.print("RA ");
             } else {
-                System.out.println(i);
+                System.out.print(i + " ");
             }
         }
     }
