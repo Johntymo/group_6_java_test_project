@@ -1,6 +1,6 @@
-package AsmaZ.week1;
+package AsmaZ;
 
-public class week1_Task1 {
+public class week1_Task1EvenOrOddNumbers {
 /*Write  a method which can identify given number is even or odd
          Output ex:
          identify(5); ->"Odd"
