@@ -1,4 +1,4 @@
-package AsmaZ.week1;
+package AsmaZ;
 
 public class week3_SwapTwoNumbers {
 

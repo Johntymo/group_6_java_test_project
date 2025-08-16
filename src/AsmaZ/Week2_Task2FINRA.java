@@ -1,6 +1,6 @@
-package AsmaZ.week1;
+package AsmaZ;
 
-public class Week2_Task2 {
+public class Week2_Task2FINRA {
 
 /*
      Numbers -- FINRA
