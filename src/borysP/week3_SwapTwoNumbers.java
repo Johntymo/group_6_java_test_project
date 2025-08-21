@@ -3,8 +3,8 @@ package borysP;
 public class week3_SwapTwoNumbers {
 
     public static void main(String[] args) {
-        int a = 7;
-        int b = 12;
+        int a = 5;
+        int b = 10;
 
         System.out.println("Before swap: a = " + a + ", b = " + b);
 
