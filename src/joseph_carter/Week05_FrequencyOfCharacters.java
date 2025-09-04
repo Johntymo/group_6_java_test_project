@@ -1,7 +1,6 @@
 package joseph_carter;
 
-import java.util.LinkedHashMap;
-import java.util.Map;
+
 
 public class Week05_FrequencyOfCharacters {
 
