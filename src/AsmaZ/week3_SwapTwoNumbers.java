@@ -1,6 +1,8 @@
-package AsmaZ.week1;
+package AsmaZ;
 
-public class week1_Task1 {
+public class week3_SwapTwoNumbers {
+
+
     public static void main(String[] args) {
 
     }
