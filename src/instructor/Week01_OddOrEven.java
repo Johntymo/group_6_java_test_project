@@ -6,7 +6,7 @@ package instructor;
 
  */
 
-public class week1_Task1 {
+public class Week01_OddOrEven {
 
     public static void main(String[] args) {
 
